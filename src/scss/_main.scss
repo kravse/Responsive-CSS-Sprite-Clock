@@ -1,0 +1,60 @@
+.clock{
+	width:80%; 
+	display:block;
+	margin:100px auto; 
+	
+	div{
+		position:relative;
+		display:inline-block;
+		width:15.5%;
+		height:0; 
+		padding-bottom:26%;
+		overflow:hidden;
+		
+		img{
+			position:absolute;
+			top:0; 
+			width:1000%; 
+		}
+	}
+}
+
+.time-0{
+	left:0
+}
+
+.time-1{
+	left:-100%; 
+}
+
+.time-2{
+	left:-200%; 
+}
+
+.time-3{
+	left:-300%; 
+}
+
+.time-4{
+	left:-400%; 
+}
+
+.time-5{
+	left:-500%; 
+}
+
+.time-6{
+	left:-600%; 
+}
+
+.time-7{
+	left:-700%; 
+}
+
+.time-8{
+	left:-800%; 
+}
+
+.time-9{
+	left:-900%; 
+}
